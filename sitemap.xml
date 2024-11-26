@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.banxia-520.github.io/categories/index.html</loc>
+    <loc>https://www.banxia-520.github.io/music/index.html</loc>
+    
+    <lastmod>2024-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.banxia-520.github.io/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.banxia-520.github.io/music/index.html</loc>
+    <loc>https://www.banxia-520.github.io/categories/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://www.banxia-520.github.io/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.banxia-520.github.io/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
