@@ -1393,7 +1393,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://s21.ax1x.com/2024/11/27/pA48WUx.jpg);
+  background: url(https://pic.imgdb.cn/item/6746cf89d0e0a243d4d1e6bd.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5222,7 +5222,7 @@ mjx-container[display],
   border-radius: 5px !important;
 }
 [data-theme="dark"] #web_bg {
-  background: url(https://s21.ax1x.com/2024/11/27/pA48pH1.jpg);
+  background: url(https://pic.imgdb.cn/item/6746cf8fd0e0a243d4d1e6c1.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5230,14 +5230,14 @@ mjx-container[display],
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: var(--mobileday-bg);
+    background: url(https://pic.imgdb.cn/item/6746cee6d0e0a243d4d1e681.jpg);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: var(--mobilenight-bg);
+    background: url(https://pic.imgdb.cn/item/6746ce51d0e0a243d4d1e628.jpg);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
@@ -7784,7 +7784,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://s21.ax1x.com/2024/11/27/pA43X3F.jpg)
+  background: url(https://pic.imgdb.cn/item/6746cd7ed0e0a243d4d1e5bb.jpg)
     no-repeat center center;
   background-size: cover;
 }
