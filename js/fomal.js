@@ -675,7 +675,7 @@ if (document.body.clientWidth > 992) {
         borderRadius: 5 + 'px',
         right: 55.6 + 'px',
         nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
-        hoverMsg: "春天啦~",
+        hoverMsg: "喵喵~",
         color: "var(--theme-color)",
         during: 500,
         blog_body: "body",
@@ -1113,13 +1113,13 @@ function changeMouseMode() {
 var now1 = new Date();
 
 function createtime1() {
-  var grt = new Date("08/09/2022 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  var grt = new Date("11/26/2024 12:00:00"); //此处修改你的建站时间或者网站上线时间
   now1.setTime(now1.getTime() + 250);
   var days = (now1 - grt) / 1000 / 60 / 60 / 24;
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Fomalhaut🥝の小家!`,
+    `欢迎来到夏澪の小窝!`,
     `Future is now 🍭🍭🍭`,
     `
         
@@ -1133,7 +1133,7 @@ function createtime1() {
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2022 By Fomalhaut",
+    "©2024 By 夏澪",
   ];
 
   setTimeout(
