@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.banxia-520.github.io/posts/20241203d.html</loc>
+    
+    <lastmod>2024-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.banxia-520.github.io/site/echarts/index.html</loc>
     
     <lastmod>2024-12-02</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://www.banxia-520.github.io/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,28 +102,28 @@
   
   <url>
     <loc>https://www.banxia-520.github.io/tags/web%E6%94%BB%E9%98%B2/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.banxia-520.github.io/tags/%E9%97%B2%E8%81%8A/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.banxia-520.github.io/tags/Markdown/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.banxia-520.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -123,21 +132,21 @@
   
   <url>
     <loc>https://www.banxia-520.github.io/categories/web%E6%94%BB%E9%98%B2/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.banxia-520.github.io/categories/%E9%97%B2%E8%81%8A/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.banxia-520.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
